@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { useState } from 'react'
-import { Code, Database, Server, Palette, Zap, Shield, Globe, Smartphone } from 'lucide-react'
+import { Database, Server, Palette, Zap } from 'lucide-react'
 
 const SkillsPage = () => {
   const [activeCategory, setActiveCategory] = useState('frontend')

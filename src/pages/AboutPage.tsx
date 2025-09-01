@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { Coffee, Music, Gamepad2, Code, Heart, Zap, Target, Users } from 'lucide-react'
 
 const AboutPage = () => {
-  const [hoveredCard, setHoveredCard] = useState<number | null>(null)
+  const [_hoveredCard, setHoveredCard] = useState<number | null>(null)
 
   const interests = [
     { icon: <Code className="w-6 h-6" />, title: 'Coding', description: 'Building tools that solve real problems' },

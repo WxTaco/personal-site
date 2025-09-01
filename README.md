@@ -290,7 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: [taco@wrapped.site](mailto:taco@wrapped.site)
 - **GitHub**: [@WxTaco](https://github.com/WxTaco)
-- **Discord**: [Profile](https://discord.com/users/YOUR_DISCORD_ID)
+- **Discord**: [Profile](https://discord.com/users/905201724539666503)
 
 ---
 

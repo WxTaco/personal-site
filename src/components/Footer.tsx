@@ -28,7 +28,7 @@ const Footer = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://discord.com/users/YOUR_DISCORD_ID"
+                href="https://discord.com/users/905201724539666503"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -94,7 +94,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://discord.com/users/YOUR_DISCORD_ID"
+                  href="https://discord.com/users/905201724539666503"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
