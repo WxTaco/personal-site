@@ -61,7 +61,7 @@ const HomePage = () => {
                   <span>View GitHub</span>
                 </a>
                 <a
-                  href="https://discord.com/users/YOUR_DISCORD_ID"
+                  href="https://discord.com/users/905201724539666503"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-secondary inline-flex items-center space-x-2"

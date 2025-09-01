@@ -53,7 +53,7 @@ const ContactPage = () => {
       title: 'Discord',
       description: 'Connect on Discord',
       value: 'Direct message',
-      href: 'https://discord.com/users/YOUR_DISCORD_ID',
+      href: 'https://discord.com/users/905201724539666503',
       color: 'from-indigo-500 to-purple-500'
     }
   ]
