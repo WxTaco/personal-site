@@ -20,7 +20,7 @@ A modern, responsive personal portfolio website showcasing my projects, skills, 
 
 ## 🚀 Live Demo
 
-Visit the live website: [taco.wrapepd.site](https://taco.wrapped.site)
+Visit the live website: [taco.wrapped.site](https://taco.wrapped.site)
 
 ## 📱 Pages
 
